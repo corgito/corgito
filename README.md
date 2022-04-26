@@ -1,7 +1,7 @@
 - Hi, I’m @corgito
-- I’m interested in putting computers to work for us as opposed to the other way around!
-- I’m currently learning web development and OOP in Python
+- I’m currently learning web development, OOP in Python, and Lisp
 - I’m looking to collaborate on web design and open source projects
+- My key areas of interest include natural language processing, online privacy, and open source software
 - How to reach me: nhaddal [at] protonmail.com
 
 <!---
